@@ -1,32 +1,33 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Menanya Morris' Portfolio
 
-> Description the project.
+> Mobile Skeleton of portfolio application 
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML and CSS
+- Git and Github
+-
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+Not Available
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+  None
 
 ### Setup
+Download and view file
 
 ### Install
 
@@ -42,7 +43,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@emmykage](https://github.com/emmykage)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
@@ -50,7 +51,7 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [Menanya Morris](https://linkedin.com/in/ https://www.linkedin.com/in/morris-menanya-a51985104/)
 
 ## 🤝 Contributing
 
