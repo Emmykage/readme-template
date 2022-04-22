@@ -2,14 +2,14 @@
 
 # Menanya Morris' Portfolio
 
-> Mobile Skeleton of portfolio application 
+> Mobile Skeleton of a web portfolio application 
 
 
 ## Built With
 
 - HTML and CSS
 - Git and Github
--
+
 
 ## Live Demo (if available)
 
@@ -43,15 +43,10 @@ Download and view file
 
 👤 **Author1**
 
-- GitHub: [@emmykage](https://github.com/emmykage)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [Menanya Morris](https://linkedin.com/in/ https://www.linkedin.com/in/morris-menanya-a51985104/)
+- LinkedIn: [Menanya Morris](https://www.linkedin.com/in/morris-menanya-a51985104/)
+
 
 ## 🤝 Contributing
 
